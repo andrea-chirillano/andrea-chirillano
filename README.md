@@ -12,7 +12,7 @@
 <p align="left">
     
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/>
   </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
