@@ -1,25 +1,7 @@
 <h4 align="left">
-
-
-
-
-<h4 align="left">
-
-
-  
-</h4>
-
-- 📫 How to reach me **andreatchirillano@hotmail.com**
-- 
-- 📄 Connect with me in linkedin [https://www.linkedin.com/in/andreachirillano/]
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
+<p> 
 
 </p>
-
-  
 </h4>
 
 - 📫 How to reach me **andreatchirillano@hotmail.com**
@@ -54,7 +36,7 @@
   </a>
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
