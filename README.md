@@ -5,22 +5,22 @@ Greetings! I'm Andrea Chirillano, a dynamic and results-driven Fullstack Develop
 
 Professional Journey:
 
-    Fullstack Developer | Autonomy
-        Crafted applications using HTML5, CSS3, Bootstrap, MySQL, Java, and Python.
+Fullstack Developer | Autonomy
+    Crafted applications using HTML5, CSS3, Bootstrap, MySQL, Java, and Python.
 
-    Application Developer | Technical Directorate of Registries and Databases, Ministry of Women, Gender and Diversity (July 2021 - December 2023)
-        Engineered web applications and delved into database analytics using MySQL and PhpMyAdmin.
-        In the backend, danced with Docker, Python, Golang, and Node.js. On the frontend, mastered Javascript, Typescript, Angular, Bootstrap, HTML, and CSS.
+Application Developer | Technical Directorate of Registries and Databases, Ministry of Women, Gender and Diversity (July 2021 - December 2023)
+    Engineered web applications and delved into database analytics using MySQL and PhpMyAdmin.
+    In the backend, danced with Docker, Python, Golang, and Node.js. On the frontend, mastered Javascript, Typescript, Angular, Bootstrap, HTML, and CSS.
 
-    Application Developer | Ministry of Human Capital (December 2023 - Present)
-        Currently shaping web applications and diving into database intricacies for the undersecretary of protection against gender violence.
-        Commanding MySQL and PhpMyAdmin for queries, and seamlessly integrating Docker, Python, Golang, Node.js for backend, and Javascript, Typescript, Angular, Bootstrap, HTML, CSS for frontend finesse.
+Application Developer | Ministry of Human Capital (December 2023 - Present)
+    Currently shaping web applications and diving into database intricacies for the undersecretary of protection against gender violence.
+    Commanding MySQL and PhpMyAdmin for queries, and seamlessly integrating Docker, Python, Golang, Node.js for backend, and Javascript, Typescript, Angular, Bootstrap, HTML, CSS for frontend finesse.
 
 
 Educational Highlights:
 
-    Completed an Angular course at EducacionIT (2023).
-    Recently earned a Professional Backend Developer Diploma (September 2023 - March 2024) from UTN.BA Facultad Regional de Buenos Aires, Universidad Tecnológica Nacional.
+Completed an Angular course at EducacionIT (2023).
+Recently earned a Professional Backend Developer Diploma (September 2023 - March 2024) from UTN.BA Facultad Regional de Buenos Aires, Universidad Tecnológica Nacional.
 
 </p>
 
