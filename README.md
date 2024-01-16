@@ -22,31 +22,15 @@ Educational Highlights:
     Completed an Angular course at EducacionIT (2023).
     Recently earned a Professional Backend Developer Diploma (September 2023 - March 2024) from UTN.BA Facultad Regional de Buenos Aires, Universidad Tecnológica Nacional.
 
-
-Hard Skills:
-
-Backend:
-Python, Golang, Java, PHP, Node.js, Docker.
-
-Frontend:
-HTML, CSS, Bootstrap, Javascript, TypeScript, Angular
-
-Database:
-MySQL, PhpMyAdmin, MySQL Workbench, SQL.
-
-
-Soft Skills Ensemble:
-Leadership, Project Management, Time Management, Design, Editing.
-
-Eager to channel my technical knowledge and soft skills into collaborative projects, I'm ready to tackle new challenges and contribute meaningfully to development proyects.
-
 </p>
 
 - 📫 How to reach me **andreatchirillano@hotmail.com**
 - 📄 Connect with me in linkedin [https://www.linkedin.com/in/andreachirillano/]
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Hard Skills:</h3>
 <p align="left">
+
+Frontend:
     
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/>
@@ -68,9 +52,15 @@ Eager to channel my technical knowledge and soft skills into collaborative proje
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+
+  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+  </a>
+
+Backend:
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -92,12 +82,21 @@ Eager to channel my technical knowledge and soft skills into collaborative proje
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+Database:
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+
+
+Soft Skills Ensemble:
+Leadership, Project Management, Time Management, Design, Editing.
+
+Eager to channel my technical knowledge and soft skills into collaborative projects, I'm ready to tackle new challenges and contribute meaningfully to development proyects.
+
 
 </p>
