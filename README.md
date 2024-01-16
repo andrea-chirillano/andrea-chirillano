@@ -1,4 +1,4 @@
-<h4 align="left">
+
 <p> 
 Greetings! I'm Andrea Chirillano, a dynamic and results-driven Fullstack Developer who thrives on challenges and takes pride in achieving goals. With two years of hands-on experience in web application development and database management, I bring a wealth of expertise to the table.
 
@@ -25,23 +25,22 @@ Educational Highlights:
 
 Hard Skills:
 
-Backend Mastery:
-Python, Golang, Java, PHP, Node.js, Docker
+Backend:
+Python, Golang, Java, PHP, Node.js, Docker.
 
-Frontend Wizardry:
+Frontend:
 HTML, CSS, Bootstrap, Javascript, TypeScript, Angular
 
-Database Prowess:
-MySQL, PhpMyAdmin, MySQL Workbench, SQL
+Database:
+MySQL, PhpMyAdmin, MySQL Workbench, SQL.
 
 
 Soft Skills Ensemble:
-Leadership, Project Management, Time Management, Design, Editing
+Leadership, Project Management, Time Management, Design, Editing.
 
 Eager to channel my technical knowledge and soft skills into collaborative projects, I'm ready to tackle new challenges and contribute meaningfully to development proyects.
 
 </p>
-</h4>
 
 - 📫 How to reach me **andreatchirillano@hotmail.com**
 - 📄 Connect with me in linkedin [https://www.linkedin.com/in/andreachirillano/]
