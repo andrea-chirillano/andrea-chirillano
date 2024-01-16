@@ -3,7 +3,7 @@
 Greetings! I'm Andrea Chirillano, a dynamic and results-driven Fullstack Developer who thrives on challenges and takes pride in achieving goals. With two years of hands-on experience in web application development and database management, I bring a wealth of expertise to the table.
 
 
-<u>Professional Journey:</u>
+<h3><u>Professional Journey:</u></h3>
 
 Fullstack Developer | Autonomy
     Crafted applications using HTML5, CSS3, Bootstrap, MySQL, Java, and Python.
@@ -17,7 +17,7 @@ Application Developer | Ministry of Human Capital (December 2023 - Present)
     Commanding MySQL and PhpMyAdmin for queries, and seamlessly integrating Docker, Python, Golang, Node.js for backend, and Javascript, Typescript, Angular, Bootstrap, HTML, CSS for frontend finesse.
 
 
-<u>Educational Highlights:</u>
+<h3><u>Educational Highlights:</u></h3>
 
 Completed an Angular course at EducacionIT (2023).
 Recently earned a Professional Backend Developer Diploma (September 2023 - March 2024) from UTN.BA Facultad Regional de Buenos Aires, Universidad Tecnológica Nacional.
@@ -93,7 +93,7 @@ Database:
   </a>
 
 
-<u>Soft Skills Ensemble:</u>
+<h3><u>Soft Skills Ensemble:</u></h3>
 Leadership, Project Management, Time Management, Design, Editing.
 
 Eager to channel my technical knowledge and soft skills into collaborative projects, I'm ready to tackle new challenges and contribute meaningfully to development proyects.
