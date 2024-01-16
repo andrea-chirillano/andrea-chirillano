@@ -1,11 +1,49 @@
 <h4 align="left">
 <p> 
+Greetings! I'm Andrea Chirillano, a dynamic and results-driven Fullstack Developer who thrives on challenges and takes pride in achieving goals. With two years of hands-on experience in web application development and database management, I bring a wealth of expertise to the table.
+
+
+Professional Journey:
+
+    Fullstack Developer | Autonomy
+        Crafted applications using HTML5, CSS3, Bootstrap, MySQL, Java, and Python.
+
+    Application Developer | Technical Directorate of Registries and Databases, Ministry of Women, Gender and Diversity (July 2021 - December 2023)
+        Engineered web applications and delved into database analytics using MySQL and PhpMyAdmin.
+        In the backend, danced with Docker, Python, Golang, and Node.js. On the frontend, mastered Javascript, Typescript, Angular, Bootstrap, HTML, and CSS.
+
+    Application Developer | Ministry of Human Capital (December 2023 - Present)
+        Currently shaping web applications and diving into database intricacies for the undersecretary of protection against gender violence.
+        Commanding MySQL and PhpMyAdmin for queries, and seamlessly integrating Docker, Python, Golang, Node.js for backend, and Javascript, Typescript, Angular, Bootstrap, HTML, CSS for frontend finesse.
+
+
+Educational Highlights:
+
+    Completed an Angular course at EducacionIT (2023).
+    Recently earned a Professional Backend Developer Diploma (September 2023 - March 2024) from UTN.BA Facultad Regional de Buenos Aires, Universidad Tecnológica Nacional.
+
+
+Hard Skills:
+
+Backend Mastery:
+Python, Golang, Java, PHP, Node.js, Docker
+
+Frontend Wizardry:
+HTML, CSS, Bootstrap, Javascript, TypeScript, Angular
+
+Database Prowess:
+MySQL, PhpMyAdmin, MySQL Workbench, SQL
+
+
+Soft Skills Ensemble:
+Leadership, Project Management, Time Management, Design, Editing
+
+Eager to channel my technical knowledge and soft skills into collaborative projects, I'm ready to tackle new challenges and contribute meaningfully to development proyects.
 
 </p>
 </h4>
 
 - 📫 How to reach me **andreatchirillano@hotmail.com**
-- 
 - 📄 Connect with me in linkedin [https://www.linkedin.com/in/andreachirillano/]
 
 <h3 align="left">Languages and Tools:</h3>
