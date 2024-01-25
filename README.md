@@ -1,6 +1,6 @@
 
 <p> 
-Greetings! I'm Andrea Chirillano, a dynamic and results-driven Fullstack Developer who thrives on challenges and takes pride in achieving goals. With two years of hands-on experience in web application development and database management, I bring a wealth of expertise to the table.
+Greetings! I'm Andrea Chirillano, a dynamic and results-driven Fullstack Developer who thrives on challenges and takes pride in achieving goals. With two years of hands-on experience in web application development and database management.
 
 
 <h3><u>Professional Journey:</u></h3>
