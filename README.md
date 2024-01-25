@@ -13,7 +13,7 @@ Application Developer | Technical Directorate of Registries and Databases, Minis
     In the backend, danced with Docker, Python, Golang, and Node.js. On the frontend, mastered Javascript, Typescript, Angular, Bootstrap, HTML, and CSS.
 
 Application Developer | Ministry of Human Capital (December 2023 - Present)
-    Currently shaping web applications and diving into database intricacies for the undersecretary of protection against gender violence.
+    Currently shaping web applications and working with databases for the undersecretary of protection against gender violence.
     Commanding MySQL and PhpMyAdmin for queries, and seamlessly integrating Docker, Python, Golang, Node.js for backend, and Javascript, Typescript, Angular, Bootstrap, HTML, CSS for frontend finesse.
 
 
