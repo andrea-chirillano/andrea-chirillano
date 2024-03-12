@@ -94,7 +94,7 @@ Database:
 
 
 <h3><u>Soft Skills Ensemble:</u></h3>
-Leadership, Project Management, Time Management, Design, Editing.
+Problem resolution, logical thinking, time management, design, communication skills, teamwork.
 
 Eager to channel my technical knowledge and soft skills into collaborative projects, I'm ready to tackle new challenges and contribute meaningfully to development proyects.
 
