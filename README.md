@@ -5,6 +5,10 @@ Greetings! I'm Andrea Chirillano, a dynamic and results-driven Fullstack Develop
 
 <h3><u>Professional Journey:</u></h3>
 
+Fullstack Developer | ALT Cooperativa - Design & Digital Development (April 2024 - Present)
+    Developing web applications and managing digital projects for multiple clients.
+    Working with WordPress, PHP, React, HTML, CSS, SASS, Django, Python, FastAPI, MySQL, PostgreSQL, and JavaScript.
+
 Fullstack Developer | Autonomy
     Crafted applications using HTML5, CSS3, Bootstrap, MySQL, Java, and Python.
 
@@ -20,7 +24,8 @@ Application Developer | Ministry of Human Capital (December 2023 - Present)
 <h3><u>Educational Highlights:</u></h3>
 
 Completed an Angular course at EducacionIT (2023).
-Recently earned a Professional Backend Developer Diploma (September 2023 - March 2024) from UTN.BA Facultad Regional de Buenos Aires, Universidad Tecnológica Nacional.
+Earned a Professional Backend Developer Diploma (September 2023 - March 2024) from UTN.BA Facultad Regional de Buenos Aires, Universidad Tecnológica Nacional.
+Currently pursuing a Informatic Engineering at the University of Buenos Aires (September 2024 - Present).
 
 </p>
 
